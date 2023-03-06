@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=d4df7c9e-f676-4390-9e7b-c7610a70d13f
+export UUID=b09dec87-2958-4a6a-a59f-16613a67501b
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=js.wiki
