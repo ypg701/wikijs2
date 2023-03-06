@@ -7,7 +7,7 @@ export UUID=b09dec87-2958-4a6a-a59f-16613a67501b
 export ProxySite=js.wiki
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
-export Port=8080
+export Port=5000
 
 
 cd /tomcat
